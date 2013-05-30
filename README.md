@@ -1,0 +1,4 @@
+takahashi
+=========
+
+takahashi環境
